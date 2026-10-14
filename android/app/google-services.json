@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "385406124486",
+    "project_id": "mechgo-23c3c",
+    "storage_bucket": "mechgo-23c3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385406124486:android:15f45cf67f418dbf91f2c7",
+        "android_client_info": {
+          "package_name": "com.shan.mech_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385406124486-h8i9b0lrippafsqbfdfo31d0gddo0eis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shan.mech_go",
+            "certificate_hash": "c1a0992890fc3ee91270e218218d9eeced32e7fd"
+          }
+        },
+        {
+          "client_id": "385406124486-d45er7ss6o4ht5e75dqloi6b9v67dqaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-YaiO4m1sthuJeYfuNN5qMbXcrIHU7XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385406124486-d45er7ss6o4ht5e75dqloi6b9v67dqaq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385406124486-um0hkbl8gnab2nccgospa2tp6ihisrdt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mechGo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
